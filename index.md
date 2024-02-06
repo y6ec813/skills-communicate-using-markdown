@@ -8,3 +8,7 @@ This is my first commit
 var c = 1
 var a = "text"
 ```
+
+- [x] Turn on github pages
+- [ ] Turn off doing stupid stuff
+- [ ] Don't waste time learning stupid stuff
